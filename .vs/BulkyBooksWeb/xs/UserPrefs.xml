@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{3313ED17-5B0E-49A7-A2F3-57469833AE99}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BulkyBooks PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Models/Category.cs" />
+      <File FileName="Controllers/CategoryController.cs" />
+      <File FileName="Views/Category/Index.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="51" Column="19" />
+      <File FileName="wwwroot/lib/jquery/dist/jquery.js" />
+      <File FileName="wwwroot/lib/jquery/dist/jquery.min.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BulkyBooksWeb" expanded="True">
+            <Node name="BulkyBooks" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
